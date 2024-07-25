@@ -24,4 +24,4 @@ These stocks were selected based on their performance metrics, market potential,
 ### References
 - [Portfolio Optimization in Python](https://github.com/areed1192/portfolio-optimization)
 - [Portfolio Optimization with Python: Mean-Variance Optimization (MVO) and Markowitz’s Efficient Frontier](https://medium.com/@phindulo60/portfolio-optimization-with-python-mean-variance-optimization-mvo-and-markowitzs-efficient-64acb3b61ef6)
-- Data is collected from [vnstock](https://github.com/thinh-vu/vnstock/tree/main)
+- Data is collected from [vnstock-thinh-vu](https://github.com/thinh-vu/vnstock/tree/main)

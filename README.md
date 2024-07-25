@@ -22,3 +22,6 @@ The portfolio I have constructed includes a selection of stocks from Hochiminh S
 These stocks were selected based on their performance metrics, market potential, and their ability to contribute to an optimal risk-return balance.
 
 ### References
+- [Portfolio Optimization in Python](https://github.com/areed1192/portfolio-optimization)
+- [Portfolio Optimization with Python: Mean-Variance Optimization (MVO) and Markowitz’s Efficient Frontier](https://medium.com/@phindulo60/portfolio-optimization-with-python-mean-variance-optimization-mvo-and-markowitzs-efficient-64acb3b61ef6)
+- Data is collected from [vnstock](https://github.com/thinh-vu/vnstock/tree/main)

@@ -1,6 +1,6 @@
 # Application of Portfolio Optimization in the Vietnam Stock Market
 #### *Update - 08/07/2024* 
-*The project is extended to include a "Portfolio Stock Tracker Dashboard" using **Microsoft Excel**. This dashboard is designed to simplify the monitoring process, providing clear and actionable insights into the stock portfolio's performance. It uses **Python** to automatically update stock prices, making it convenient to track the prices of stocks in the portfolio.*
+*The project is extended to include a "Portfolio Stock Tracker Dashboard" using **Microsoft Excel**. This dashboard is designed to simplify the monitoring process, providing clear and actionable insights into the stock portfolio's performance. Moreover, it uses **Python** to automatically update stock prices, making it convenient to track the prices of stocks in the portfolio.*
 
 ![Screenshot 2024-08-06 221500](https://github.com/user-attachments/assets/32006d84-a7fd-4f17-8b09-b5840dee1a72)
 

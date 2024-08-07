@@ -18,7 +18,7 @@ This project aims to optimize a stock portfolio in the Vietnam stock market by u
 The data for this project is sourced from vnstock, a reputable provider of comprehensive financial data on the Vietnam stock market. This platform offers accurate and current information, essential for conducting reliable financial analysis and generating meaningful insights.
 
 ### Stocks in the Portfolio
-The portfolio I have constructed includes a selection of stocks from Hochiminh Stock Exchange (HOSE) in Vietnam stock market. The chosen stocks are:
+The portfolio I constructed includes a selection of stocks from Hochiminh Stock Exchange (HOSE) in Vietnam stock market. The chosen stocks are:
 
 - **VPI:** Van Phu - Invest Investment Joint Stock Company
 

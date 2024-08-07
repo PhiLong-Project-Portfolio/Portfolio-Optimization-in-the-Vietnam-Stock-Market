@@ -7,6 +7,7 @@
 #### *Instruction*
 - Download *Stock Tracker Dashboard* and *Auto Update Stock Price* file into the same folder.
 - Run *Auto Update Stock Price* file to update stock prices.
+- Open *Stock Tracker Dashboard* and see the result.
   
 ### About My Project
 Creating an optimal investment portfolio that balances maximizing returns and minimizing risk is a key objective for any investor. One of the most influential approaches to this is Mean-Variance Optimization (MVO), introduced by Harry Markowitz. This method introduce the concept of diversification and provide a mathematical framework for managing investments.

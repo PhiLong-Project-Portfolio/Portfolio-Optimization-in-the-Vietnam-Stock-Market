@@ -8,7 +8,7 @@
 - Download *Stock Tracker Dashboard* and *Auto Update Stock Price* file into the same folder.
 - Run *Auto Update Stock Price* file to update stock prices.
   
-### About This Project
+### About My Project
 Creating an optimal investment portfolio that balances maximizing returns and minimizing risk is a key objective for any investor. One of the most influential approaches to this is Mean-Variance Optimization (MVO), introduced by Harry Markowitz. This method introduce the concept of diversification and provide a mathematical framework for managing investments.
 
 This project aims to optimize a stock portfolio in the Vietnam stock market by using MVO and Markowitz’s Efficient Frontier. My goal is to create a portfolio that maximizes returns while in certain risk, demonstrating the practical application of these theories.

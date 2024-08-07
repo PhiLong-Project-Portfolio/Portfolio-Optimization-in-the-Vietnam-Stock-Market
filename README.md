@@ -1,6 +1,7 @@
 # Application of Portfolio Optimization in the Vietnam Stock Market
 #### *Update - 08/07/2024* 
-*The project is extended to include a "Portfolio Stock Tracker Dashboard" using Microsoft Excel. This dashboard is designed to simplify the monitoring process, providing clear and actionable insights into the stock portfolio's performance.*
+*The project is extended to include a "Portfolio Stock Tracker Dashboard" using **Microsoft Excel**. This dashboard is designed to simplify the monitoring process, providing clear and actionable insights into the stock portfolio's performance.*
+![Screenshot 2024-08-06 221500](https://github.com/user-attachments/assets/32006d84-a7fd-4f17-8b09-b5840dee1a72)
 
 ### Introduction
 Creating an optimal investment portfolio that balances maximizing returns and minimizing risk is a key objective for any investor. One of the most influential approaches to this is Mean-Variance Optimization (MVO), introduced by Harry Markowitz. This method introduce the concept of diversification and provide a mathematical framework for managing investments.
